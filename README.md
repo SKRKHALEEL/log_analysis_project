@@ -5,6 +5,8 @@ This Python script processes log files to detect suspicious activity, including:
 - Detecting failed login attempts exceeding a given threshold.
 
 ## How to Run
+OPEN THE TERMINAL
+
 1. Run the script: python log_analysis.py
 2. The results will be saved in: log_analysis_results.csv
                            
